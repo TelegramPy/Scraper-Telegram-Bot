@@ -9,21 +9,18 @@ To utilize a **Telegram scraping bot** effectively, follow these step-by-step in
 
 1. Choose the right Telegram scraping tool: There are several Telegram scraping tools available in the market. Compare the functionality of any other scraper bot with ours by functionality, interface, and customer reviews.
 
+- ✅ Export Users from Channels Export Users from Groups
+- ✅ Export Users from Private Groups and channels
+- ✅ Export Users from Groups without link
+- ✅ Export Users from Groups by ID
+- ✅ Scrape contacts advertisers from channels
+- ✅ Batch export by list of links and Convenient control in 2 clicks
+- ✅ Can use from smartphone and 100% SAFE FOR YOUR TELEGRAM ACCOUNT
+
 2. Pay attention to such important parameters as scraper bot installation, after-sales service and regular updates with **high-quality support**.
 
-- ✅ Export Users from Channels Export Users from Groups
-- ✅ Export Users from Private Groups
-- ✅ Export Users from Groups without link
-- ✅ Export Users from Groups by Group ID
-- ✅ Export Users from Groups with Complex Captcha
-- ✅ Scrape contacts advertisers from channels
-- ✅ Batch export by list of links
-- ✅ Convenient control in 2 clicks
-- ✅ Can use from smartphone
-- ✅ 100% SAFE FOR YOUR TELEGRAM ACCOUNT
 
-
-##Exybot team for you - we loves our clients and providing best service for everyone!##
+## Exybot team for you - we loves our clients and providing best service for everyone! ##
 
 - ❤️ Support on your language
 - ❤️ Help 24\7
